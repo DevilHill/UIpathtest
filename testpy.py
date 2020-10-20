@@ -6,7 +6,7 @@ from tencentcloud.ocr.v20181119 import ocr_client, models
 import json
 def OrcMethod(str):
     try: 
-        cred = credential.Credential("AKIDMSJvW8fplFSQbWd2B5kU6TntnpdCDxkJ", "byd1JblnlohurkYItMpUuELE2g5IFvJQ") 
+        cred = credential.Credential("", "") 
         httpProfile = HttpProfile()
         httpProfile.endpoint = "ocr.tencentcloudapi.com"
 

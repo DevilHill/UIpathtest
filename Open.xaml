@@ -130,10 +130,10 @@
                   <Literal x:TypeArguments="x:String">Base64</Literal>
                 </InArgument>
                 <InArgument x:TypeArguments="x:String" x:Key="SecretId">
-                  <Literal x:TypeArguments="x:String">AKIDMSJvW8fplFSQbWd2B5kU6TntnpdCDxkJ</Literal>
+                  <Literal x:TypeArguments="x:String"></Literal>
                 </InArgument>
                 <InArgument x:TypeArguments="x:String" x:Key="SecretKey">
-                  <Literal x:TypeArguments="x:String">byd1JblnlohurkYItMpUuELE2g5IFvJQ</Literal>
+                  <Literal x:TypeArguments="x:String"></Literal>
                 </InArgument>
                 <InArgument x:TypeArguments="x:String" x:Key="Action">
                   <Literal x:TypeArguments="x:String">GeneralBasicOCR</Literal>

@@ -3,8 +3,10 @@
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
+    "Magicodes.WeChat.SDK.Core": "[2.1.6]",
     "Microsoft.Activities": "[1.0.1]",
     "Microsoft.Activities.Extensions": "[2.0.6.9]",
+    "Microsoft.Owin.Security.WeChat": "[1.0.0.1]",
     "System.Xml.XPath": "[4.3.0]",
     "UiPath": "[20.10.7585.27318]",
     "UiPath.Activities.Api": "[20.4.0]",
@@ -19,6 +21,7 @@
     "UiPath.UIAutomation.Activities": "[20.4.2]",
     "UiPath.Vision": "[2.0.3]",
     "UiPath.WebAPI.Activities": "[1.5.0-preview]",
+    "WeChat.Framework": "[1.0.3]",
     "XML.XPath.Activities.GetXMLConfig": "[1.2.0]"
   },
   "webServices": [],
